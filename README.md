@@ -27,7 +27,7 @@ https://instor.alpaycelik.dev
 Clone the project
 
 ```bash
-  git clone https://github.com/AlpayC/Furniture_MERN
+  git clone https://github.com/usamaahmedsiddique/FurnitureOrganizer.git
 ```
 
 Go to the project directory and start the server incl. frontend
