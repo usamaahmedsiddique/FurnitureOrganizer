@@ -148,8 +148,7 @@ To run this project, you will need to add the following environment variables to
 
 ## Authors
 
-- [@AlpayC](https://www.github.com/AlpayC)
-- [@BorisD2023](https://github.com/BorisD2023)
+- [@usamaahmedsiddique(https://www.github.com/usamaahmedsiddique)
 
 ## Roadmap
 
